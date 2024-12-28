@@ -1,5 +1,5 @@
 # Software Architecture Overview Guide
-Six popular software architectural patterns include:
+Nine popular software architectural patterns include:
   
 * Controller-Worker Pattern
   + Processing and control logic become separated.
@@ -31,4 +31,13 @@ Six popular software architectural patterns include:
 * Monolithic Architecture
   + Every app component is unified into one interconnected structure, simplifying deployment and management.
     - This is especially useful for smaller apps, but can be a challenge for larger apps due to scalability needs and redeploying systems due to changes.
-  + A potential drawback is minimal support for unique configurations for specific components/parts. 
+  + A potential drawback is minimal support for unique configurations for specific components/parts.
+* Peer-to-Peer Architecture
+  + Every user has server and client capabilities (instead of operating within a dedicated client-server model).
+  + Popular for decentralized apps and file/resource sharing networks/services with high scalability needs.
+* Pipe-Filter Architecture
+  + ‘Filters’ are connected by a linear piping/redirection system, which also performs data transformation.
+  + Useful for apps with heavy data stream and processing (e.g., batch) needs.
+* Primary-Replica/Primary-Secondary Architecture
+  + Useful for database systems in which write operations and read replications are distinctively handled by primary and secondary nodes, respectively.
+  + Helpful for preventing single point of failure while accounting for scalability (highly available to read data).
