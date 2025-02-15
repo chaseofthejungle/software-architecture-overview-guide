@@ -42,4 +42,5 @@ Nine popular software architectural patterns include:
   + Useful for database systems in which write operations and read replications are distinctively handled by primary and secondary nodes, respectively.
   + Helpful for preventing single point of failure while accounting for scalability (highly available to read data).
 
-TODO: Add diagrams for each software architecture pattern.
+TODO #1: Add diagrams for each software architecture pattern.  
+TODO #2: Split each pattern into its own section. 
