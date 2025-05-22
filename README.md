@@ -12,6 +12,7 @@ This is an introductory guide to nine popular software architectural patterns/ar
 7. [Peer-to-Peer Architecture](#p2p)
 8. [Pipe-Filter Architecture](#pipe-filter)
 9. [Primary-Replica/Primary-Secondary Architecture](#replica)
+10. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -81,5 +82,11 @@ This is an introductory guide to nine popular software architectural patterns/ar
   + **Helpful for preventing single point of failure while accounting for scalability (highly available to read data).**
   
 <hr />
+
+## 10. <a name="supplemental">Supplemental Resources</a>
+* *[Microsoft Documentation on Events in Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/events/)*
+* *[spring.io Documentation on Microservices](https://spring.io/microservices)*
   
-TODO: Add diagrams for each software architecture pattern.  
+<hr />
+  
+**TODO:** Add diagrams for each software architecture pattern.  
