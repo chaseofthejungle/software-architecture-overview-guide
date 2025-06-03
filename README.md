@@ -84,6 +84,7 @@ This is an introductory guide to nine popular software architectural patterns/ar
 <hr />
 
 ## 10. <a name="supplemental">Supplemental Resources</a>
+* *[Amazon Documentation on Monolithic and Microservices Architecture Differences](https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/)*
 * *[Microsoft Documentation on Events in Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/events/)*
 * *[spring.io Documentation on Microservices](https://spring.io/microservices)*
   
